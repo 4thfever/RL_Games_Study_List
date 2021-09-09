@@ -1,4 +1,5 @@
 # RL for Games: A study List
+This repo aims to provide a recommendation list for RL + Game freshmen.
 
 ## RL Game Papers
 
