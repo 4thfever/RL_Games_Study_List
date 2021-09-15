@@ -41,6 +41,24 @@ https://deepmind.com/research/publications/2020/mastering-atari-go-chess-and-sho
 Playing Atari with Deep Reinforcement Learning
 https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
 
+## RL Github Repos
+Using Deep Q-Network to Learn How To Play Flappy Bird
+https://github.com/yenchenlin/DeepLearningFlappyBird
+
+ReinforcementLearning-AtariGame
+https://github.com/Nasdin/ReinforcementLearning-AtariGame
+
+中国象棋Zero（CCZero）
+https://github.com/NeymarL/ChineseChess-AlphaZero
+
+threes-ai
+https://github.com/halfrost/threes-ai
+
+Thought-SC2
+https://github.com/StarBeta/Thought-SC2
+
+
+
 ## RL Game Organization Articles
 启元世界
 https://www.zhihu.com/org/qi-yuan-shi-jie-99
